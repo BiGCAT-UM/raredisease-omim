@@ -1,4 +1,5 @@
 @Grapes([
+  @Grab(group='com.google.guava', module='guava', version='19.0'),
   @Grab(group='org.nanopub', module='nanopub', version='1.18'),
   @Grab('com.xlson.groovycsv:groovycsv:1.1')
 ])
