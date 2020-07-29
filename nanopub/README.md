@@ -16,3 +16,4 @@ ENSG00000052850	ALX4	11106354	609597	Parietal foramina 2 	11106354
 ENSG00000102081	FMR1	1675488	300624	Fragile X syndrome 	1675488
 ```
 
+Input can be found at https://doi.org/10.6084/m9.figshare.7718537.v1
